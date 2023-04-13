@@ -1,0 +1,7 @@
+body {
+    background-image: url('img/dc.jpeg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
